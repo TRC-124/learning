@@ -1,0 +1,21 @@
+﻿  源.cpp
+C:\Users\trcraft\source\repos\数据存储\源.cpp(61,14): warning C4305: “初始化”: 从“int”到“char”截断
+C:\Users\trcraft\source\repos\数据存储\源.cpp(61,16): warning C4309: “初始化”: 截断常量值
+C:\Users\trcraft\source\repos\数据存储\源.cpp(71,14): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\trcraft\source\repos\数据存储\源.cpp(18,12): warning C4101: “m”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(10,7): warning C4101: “a”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(17,14): warning C4101: “k”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(14,6): warning C4101: “e”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(11,19): warning C4101: “b”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(22,11): warning C4101: “p”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(34,11): warning C4101: “p3”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(23,12): warning C4101: “q”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(15,18): warning C4101: “f”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(32,10): warning C4101: “p1”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(16,7): warning C4101: “j”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(12,8): warning C4101: “c”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(35,11): warning C4101: “p4”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(33,12): warning C4101: “p2”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(19,24): warning C4101: “n”: 未引用的局部变量
+C:\Users\trcraft\source\repos\数据存储\源.cpp(13,20): warning C4101: “d”: 未引用的局部变量
+  数据存储.vcxproj -> C:\Users\trcraft\source\repos\数据存储\x64\Debug\数据存储.exe
